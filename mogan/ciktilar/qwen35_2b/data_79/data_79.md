@@ -1,0 +1,8 @@
+```markdown
+# Şekil 6.7. 3ampy ve 4-6 komplekslerinin (a) kızılötesi ve (b) Raman spektrumları.
+
+## N-H titreşimleri
+
+$v$(NH) gerilme titreşimleri kızılötesi spektrumlarda $3400-3100 \mathrm{~cm}^{-1}$ dalga sayısı aralığında meydana gelmektedir (Ahluwalia, 2023). Komplekslerin kızılötesi spektrumlarından $-\mathrm{NH}$ gerilme ve büklme titreşimlerine ait bantlar incelendiğinde, 4aepy ve 3ampy ligantlarının kızılötesi spektrumlarında asimetrik ve simetrik $v$(NH) gerilme titreşim dalga sayıları $3350-3199 \mathrm{~cm}^{-1}$ aralığında gözlenmiştir (Niven ve Percy, 1978; Rastogi ve Sharma, 1974). Çizelge 6.3 ve 6.4'de görüldüğü gibi, 1-6 komplekslerin kızılötesi spektrumlarında asimetrik ve simetrik $v$(NH) gerilme titreşim dalga sayıları sırasıyla $\left\{\left[\mathrm{Cu}\left(\mathrm{H}_{2} \mathrm{O}\right)\right]_{\left(\mu-4 \mathrm{aepy}\right)} \mathrm{Cu}\left(\mu-4 \mathrm{aepy}\right)_{2} \mathrm{Cu}\left(\mu-4 \mathrm{aepy}\right) \mathrm{Co}_{2}\left(\mu-\mathrm{CN}\right)_{6}(\mathrm{CN})_{6} \cdot 3 \mathrm{H}_{2} \mathrm{O}\right\}_{n}$ (1) kompleks için $3383$ ve $3285 \mathrm{~cm}^{-1}$, $(\mathrm{NH}_{4})\left[\mathrm{Cd}\left(\mu-4 \mathrm{aepy}\right)_{2} \mathrm{Co}\left(\mu-\mathrm{CN}\right)_{2}(\mathrm{CN})_{4}\right]_{n}$ (2) kompleks için $3362$ ve $3283 \mathrm{~cm}^{-1}$, $(\mathrm{NH}_{4})\left[\mathrm{Cd}\left(\mu-4 \mathrm{aepy}\right)_{2} \mathrm{Fe}\left(\mu-\mathrm{CN}\right)_{2}(\mathrm{CN})_{4}\right]_{n}$ (3) kompleks için $3369$ ve
+
+```

@@ -1,0 +1,17 @@
+```markdown
+# -Düzleştirme Katmanı (Flattening Layer): Matris verilerini tek sıralı girişlere dönüştürerek klasik sinir ağları için hazırlar.
+
+# -Tam Bağlantılı Katman (Fully-Connected Layer): Öğrenme sürecini kolaylaştırmak için ağırlıkları ve önnyargıları ayarlar.
+
+## Şekil 3.2 Çalışmada kullanılan CNN modeli ve verisinin akış şeması
+
+Model, üretilen 1000 sentetik görüntüden oluşan veri seti üzerinde yinelenmeli olarak eğitilmiştir. CNN algoritmasının eğitimi sırasında gerekli hiperparametreler optimize edilmiştir ve bu değerler Tablo 3.1'de sunulmaktadır. Modelin genelelleştirme yeteneğini değerlendirmek ve aşırı öğrenme (overfitting) sorunlarını tespit etmek amacıyla, eğitilmiş model doğrulama ve test veri setleri üzerinde test edilmiştir. Bu adımlar, modelin genel performansını ve genelleme kapasitesini değerlendirmek açısından önemlidir.
+
+## Tablo 3.1 CNN modelinde optimize edilen hiperparametreler
+
+| Katman Adı | Hiperparametreler |
+| :--- | :--- |
+| 2D Convolution_1 | Number of filters:32, Size of kernels: 3x3, Strides:1x1, Activation: ReLU, |
+| 2D Convolution_2 | Number of filters 64, Size of kernels: 3x3, Strides:1x1, Activation: ReLU |
+| 2D Max_pooling | Size of pooling: 2 x 2, Strides: 2x2 |
+```

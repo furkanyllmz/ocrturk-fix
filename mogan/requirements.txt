@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+beautifulsoup4
+lxml
+python-Levenshtein
+apted
+requests
+# yerel model çalıştırma (Apple Silicon)
+mlx-vlm

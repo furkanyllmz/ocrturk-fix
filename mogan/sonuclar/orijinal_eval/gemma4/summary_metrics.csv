@@ -1,0 +1,3 @@
+group,count,text_ned_avg,text_tcs_avg,equation_ned_avg,equation_bleu_avg,equation_cdm_avg,table_ned_avg,table_teds_avg
+markdown,180,0.11758340753024367,0.8658675917718736,0.04542701220989875,0.9464982208299577,0.9607980739989207,0.04601689002778995,0.832927282419236
+images,0,,,,,,,

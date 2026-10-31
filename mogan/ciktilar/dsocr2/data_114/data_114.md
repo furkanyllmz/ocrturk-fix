@@ -1,0 +1,18 @@
+# Finansal Yönetim - Bilanço
+
+---
+
+### A. ŞİRKETİNİN BİLANÇOSU
+
+**AKTİFLER (VARLIKLAR)**  
+- **DÖNEN VARLIKLAR**  
+  - DURAN VARLIKLAR  
+    **ALTERNATİF YATIRIM ALANLARI**  
+  *(İŞLETMENİN EKONOMİK VEYA YATIRIM YAPISI)*  
+
+**PASİFLER (KAYNAKLAR)**  
+  - KVYK  
+  - UVYK  
+  - **ÖZKAYNAKLAR**  
+    **ALTERNATİF FON KAYNAKLARI**  
+  *(İŞLETMENİN FİNANSAL YAPISI)*

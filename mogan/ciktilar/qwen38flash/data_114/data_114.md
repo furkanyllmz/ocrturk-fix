@@ -1,0 +1,14 @@
+```markdown
+# Finansal Yönetim - Bilanço
+
+## A. ŞİRKETİNİN BİLANÇOSU
+
+| AKTİFLER (VARLIKLAR) | PASİFLER (KAYNAKLAR) |
+| :--- | :--- |
+| - DÖNEN VARLIKLAR | - KVYK |
+| - DURAN VARLIKLAR | - UVYK |
+| **ALTERNATİF YATIRIM ALANLARI** | - ÖZKAYNAKLAR |
+| | **ALTERNATİF FON KAYNAKLARI** |
+| (İŞLETMENİN EKONOMİK VEYA YATIRIM YAPISI) | (İŞLETMENİN FİNANSAL YAPISI) |
+
+```

@@ -1,0 +1,48 @@
+Hanehalkı finansal varlıklarının GSYİH’ye oranı 2025 yılı birinci çeyreği itibarıyla yaklaşık %44 seviyesindedir.  
+Eşdeğer gelişmekte olan ülkelerde söz konusu oran %74 (Romanya) ile %168 (Şili) arasında değişirken,  
+örnekleme dahil edilen gelişmiş ülkelerde ise bu oranın daha da yükseldiği görülmektedir. Hanehalkı  
+yükümlülüklerinin GSYİH’ye oranına bakıldığında ise; 2025 yılının birinci çeyreğinde Türkiye’nin %10 ile  
+karşılaştırma yapılan ülkeler arasında borçluluk düzeyi en düşük ülke olduğu görülmektedir (Grafik 33).  
+
+### Grafik 33: Hanehalkı Ülke Karşılaştırması  
+
+**Grafik 33: Hanehalkı Ülke Karşılaştırması**  
+
+- **Finansal Varlık / GSYİH**  
+- **Yükümlülük/GSYİH**  
+
+| Türkiye | Romanya | Polonya | Meksika | Birlik | Slovenya | Maçistan | Norveç | Yunanistan | Çekya | Şili | İspanya | Kore | Almanya | Euro Boğazişi | Fransa | Yeni Zelanda | ABD |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+- **Yükümlülük**  
+- **GSYİH**  
+- **Yunanistan**  
+- **Çekya**  
+- **Şili**  
+- **İspanya**  
+- **Kore**  
+- **Almanya**  
+- **Euro Boğazişi**  
+- **Fransa**  
+- **Yeni Zelanda**  
+- **ABD**  
+
+- **Son Gözlem: 2025-I**  
+- **Son Gözlem: 2024-I**  
+
+Kaynak: TCMB, TÜİK, OECD  
+Dipnot: Diğer ülke verileri 2024 IV. Çeyrek itibarıyla.  
+
+Finansal olmayan kuruluşların toplam finansal varlıklarının GSYİH’e oranı 2025 yılı birinci çeyreği  
+itibarıyla %120 seviyesindedir. Örnekleme alınan gelişmekte olan ülkeler arasında bu oranın %52 (Yunanistan)  
+ile %155 (Macaristan) arasında değiştiği görülmektedir. Yükümlülüklerin GSYİH’ye oranlarına bakıldığında ise;  
+Türkiye’nin %156 borçluluk oranı ile düşük ülkeler arasında yer aldığı görülmektedir (Grafik 34).  
+
+### Grafik 34: Finansal Olmayan Kuruluşlar Ülke Karşılaştırması  
+
+**Grafik 34: Finansal Olmayan Kuruluşlar Ülke Karşılaştırması**  
+
+- **Finansal Varlık / GSYİH**  
+- **Yükümlülük/GSYİH**  
+
+| Yunanistan | Meksika | Romanya | Polonya | Polonya | Slovenya | Birlik | Birlik | Azerbaycan | Azerbaycan | Azerbaycan | Azerbaycan | Azerbaycan | Azerbaycan | Azerbaycan | Azerbaycan | Yeni Zelanda | Yeni Zelanda | İspanya | İspanya | Almanya | Almanya | Almanya | Almanya | Almanya | Almanya | Almanya | Almanya | Almanya | Almanya | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelanda | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelanda | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelana | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelana | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelana | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelana | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zeland | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelan | Yeni Zelana | Y

@@ -1,0 +1,43 @@
+Tablo 6'da örnekleme periyodunun çözüm doğruluğuna etkisi incelenmiştir. Çözümün örnekleme periyodu t sızdıkça yöntemin doğruluğunun arttığı görülmektedir. Tablo 6'da 5 inci saniye için türev değerleri verilmiştir.
+
+### Tablo 6. Farklı örnekleme periyotları için (ts) GL ortalama hata sonuçları
+
+|    | ts=0.1, t:0:20 | ts=0.5, t:0:20 | ts=1, t:0:20 |
+|---|---|---|---|
+| \( f(t) = e^t \) | 0.0508    | 0.2822    | 0.5529    |
+| \( f(t) = \sin(t) \) | 0.0578    | 3.3335    | -0.52798   |
+| \( f(t) = t \)    | 4.9738e\(^{-15}\) | 0.20008    | 0.4500    |
+| \( f(t) = t^2 + t + 1 \) | 0.0118    | 0.0618    | 0.0890    |
+
+### Tablo 7. \( t = 5 \) için farklı kesir derecelerin \( f(t) \) fonksiyon değerleri
+
+| \( t = 5 \) için | Fonksiyonlar | \( f(t) = e^t \) | \( f(t) = \sin(t) \) | \( f(t) = t \) | \( f(t) = t^2 + t + 1 \) |
+|---|---|---|---|---|---|
+| Kesir Derecesi |    |    |    |    |    |
+| D\(^{0.5}\)    | 118,0080    | -0.6878    | 2.4609    | 18.2929    |
+| D\(^{0.8}\)    | 102,8322    | -0.4086    | 1.4784    | 12.8719    |
+| D\(^{1.0}\)    | 93,8150    | -0.2021    | 1    | 10    |
+| D\(^{1.2}\)    | 85,5893    | 0.0073    | 0.6384    | 7.6352    |
+| D\(^{1.5}\)    | 74,5852    | 0.3057    | 0.2734    | 4.8945    |
+
+---
+
+### 2.3 Laplace'ın Kuvvet Fonksiyonları Türev Genelleştirmesi
+
+Lacroix tarafından 1982'de yazılan eserde aslında Laplace'in kesir dereceli türevinin basit bir tanımı olduğu yazılmaktadır ve çalışmada, \( y = t^m \) kuvvet fonksiyonun türevini ele alarak bir genelleme yapılmaya çalışılmıştır [17]. Bu yöntem, kuvvet seri açılımları bilinen fonksiyonlar için çözümler üretilebilmektedir. \( y = t^m \) nın, mertebe tamsayı derece türevleri için denklem 6'da eşitlik kullanılmıştır.
+
+\[\frac{d^n y}{d t^n} = \frac{m!}{(m-n)!} t^{m-n} \tag{6}\]
+
+Denklem 6'da eşitlikten yola çıkarak kuvvet fonksiyonunun \( n \) türevi için gama fonksiyonu denklem 7'deki gibi elde edilmiştir.
+
+\[\frac{d^n y}{d t^n} = \frac{\Gamma(m+1)}{\Gamma(m-n+1)} t^{m-n} \tag{7}\]
+
+\( m \) veya \( n \) reel sayı olması durumunda sürekli gama fonksiyonu ile faktöriyel hesabının mümkün olduğu önerilirse, \( y = t^m \) ifadesinin \( \alpha \in \mathbb{R} \) için kesir dereceli türevi bu genelleme yardımı ile denklem 8'deki gibi ifade edilmektedir.
+
+\[D^\alpha y(x) = \frac{d^\alpha}{d t^\alpha} x^m = \frac{\Gamma(m+1)}{\Gamma(m-n+1)} t^{m-n} \tag{8}\]
+
+Birçok temel fonksiyon, kuvvet seri açılımları olarak gösterilebilmektedir. Bu fonksiyonlardan bazılarının kuvvet serisi açılımları aşağıdaki gibidir.
+
+\[f(t) = e^t \text{ kuvvet serisi formunda denklem 9'da gibi ifade edilmektedir.}\]
+
+\[y = e^t = \sum_{k=0}^\infty \frac{t^k}{k!} = 1 + t + \frac{t^2}{2!} + \frac{t^3}{3!} + \dots \tag{9}\]

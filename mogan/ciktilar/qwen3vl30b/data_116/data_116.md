@@ -1,0 +1,5 @@
+```html
+<html><body>
+<div class="image"><img/></div> 
+</body></html>
+```

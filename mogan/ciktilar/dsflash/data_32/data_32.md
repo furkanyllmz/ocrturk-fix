@@ -1,0 +1,19 @@
+**DOĞAL FAKTÖRLER**
+12. Sınıf Coğrafya
+
+### Türkiye'nin petrol boru hatları
+
+**Harita Üzerindeki Metinler:**
+KARADAĞ, KOSOVA, BULGARİSTAN, MAKEDONYA, ARNAVUTLUK, YUNANİSTAN, GÜRCİSTAN, ERMENİSTAN, AZERBAYCAN, İRAN, IRAK, SURİYE, LÜBNAN, İSRAİL, ÜRDÜN, MISIR, KUVEYT, KKTK
+BAKÜ-TİFLİS-CEYHAN, BAKTAN-DÖRTYOL, CEYHAN-KIRIKKALE, CEYHAN TERMİNALİ, IRAK-TÜRKİYE
+
+**Lejant:**
+LEJAND
+— ULUSAL HATLAR
+— TRANSİT HATLAR
+T.C. ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞI
+Türkiye Petrol Boru Hatları Haritası Genel Müdürlüğü
+2014, ANKARA, TÜRKİYE
+
+**Ölçek:**
+0 200 400 Km

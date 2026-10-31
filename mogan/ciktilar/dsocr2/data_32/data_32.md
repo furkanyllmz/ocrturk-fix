@@ -1,0 +1,52 @@
+# DOĞAL FAKTÖRLER
+
+## 12. Sınıf Coğrafya
+
+Türkiye’nin petrol boru hatları
+
+- LEJAND
+- ULUSAL HATLAR
+- TRANSİT HATLAR
+
+BALKİŞTİFİS-CEYHAN  
+BAYİKTAŞ  
+BATUMI  
+BATUM  
+TUNIS  
+IRAN  
+IRAN  
+IRAN  
+IRAN  
+IRAN  
+IRAN  
+IRAN  
+IRAN  
+IRAN  
+IRAN  
+IRRAN  
+IRRAN  
+IRRAN  
+IRRAN  
+IRRAN  
+IRRAN  
+IRRAN  
+IRRAN  
+
+- GÜRCİSTAN  
+- AZERBAYCAN  
+- MİRKİSTAN  
+- GÜRBÜYÜKŞEHİR  
+- TUNIS  
+- ELMA  
+- DİRENİŞ  
+- MİLLETİ YATIRIM ŞUBESİ  
+- 2014 ANKARA, TRENOR  
+- 2014 ANKARA, TRENOR  
+- 2014 ANKARA, TRENOR  
+- 2014 ARALIK 22'DE  
+- 2000 YÜZÜNDÜRÜNÜŞ  
+- 2000 YÜZÜNDÜRÜNÜŞ  
+- ORDUANEDE  
+- 0  
+- 200  
+- 400 Km

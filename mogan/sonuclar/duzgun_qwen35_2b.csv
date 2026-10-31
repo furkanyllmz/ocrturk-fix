@@ -1,0 +1,2 @@
+model,sayfa,metin_ned_toplam,metin_ned,metin_ned_ga,tcs,tcs_ga,aksan_karisiklik,tablo_teds,tablo_teds_ga,tablo_teds_n,tablo_ned,formul_ned,formul_ned_n,formul_cdm,tablo_uydurma
+qwen35_2b,180,0.275,0.144,0.112-0.179,0.856,0.821-0.887,0.01,0.721,0.618-0.818,42,0.197,0.276,27,0.776,0.109
